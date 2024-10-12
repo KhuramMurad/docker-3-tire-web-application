@@ -1,0 +1,11 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "A brief description of your project",
+  "main": "app.js", // Replace "index.js" with the main entry point of your project
+  "scripts": {
+    "start": "node server.js" // Replace "server.js" with the name of your backend server file
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
